@@ -1,11 +1,11 @@
 ﻿namespace MarsRover.ConsoleApp.Model
 {
-    public class Move
+    public class Rover
     {
         public Plateau Plateau { get; set; }
         public string Moves { get; set; }
         public Position Position { get; set; }
-        public Move()
+        public Rover()
         {
             this.Position = new Position();
             this.Plateau = new Plateau();

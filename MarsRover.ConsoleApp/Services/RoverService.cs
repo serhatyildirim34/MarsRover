@@ -3,7 +3,7 @@ using System;
 
 namespace MarsRover.ConsoleApp
 {
-    public class PositionService : IPositionService
+    public class RoverService : IRoverService
     {
         private bool IsMoveAvailable(Plateau plateau, Position position)
         {
@@ -11,7 +11,6 @@ namespace MarsRover.ConsoleApp
         }
         private Directions Rotate90Left(Directions directions)
         {
-
             switch (directions)
             {
                 case Directions.N:
@@ -76,7 +75,7 @@ namespace MarsRover.ConsoleApp
             return position;
         }
 
-        public Position StartMoving(Move move)
+        public Position StartMoving(Rover move)
         {
             foreach (var _move in move.Moves)
             {
