@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqcosnKucwpGyDkc4qQySjrekjtboFgwri3orI7R/s8Y4YDlLngeWU+8N/2Pn4ked5Zr5ScqSozC9fZSXSPgRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\09370604\\source\\repos\\MarsRover\\MarsRover.ConsoleApp\\MarsRover.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.3\\microsoft.extensions.configuration.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.3\\microsoft.extensions.configuration.binder.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.options\\3.1.3\\microsoft.extensions.options.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.3\\microsoft.extensions.options.configurationextensions.3.1.3.nupkg.sha512",
+    "C:\\Users\\09370604\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.3\\microsoft.extensions.primitives.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
